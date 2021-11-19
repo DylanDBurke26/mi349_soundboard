@@ -12,9 +12,6 @@ h1{
 }
 
 div{
-    
-    display: flexbox;
-    flex-direction: column;
     padding: 30px;
     text-align: center;
 }
@@ -22,8 +19,7 @@ div{
 /*https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_basic*/
 button{
     background-color: transparent;
-    border: color black;
-    color: black;
+    text-decoration: black;
     display: inline-block;
     font-size: 20px;
     margin: 4px 2px;
