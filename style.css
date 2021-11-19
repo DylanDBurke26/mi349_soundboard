@@ -1,0 +1,37 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    color: black;
+    border-top: 10px solid black;
+    background-color: lavender;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    
+    display: flexbox;
+    flex-direction: column;
+    padding: 30px;
+    text-align: center;
+}
+
+/*https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_basic*/
+button{
+    background-color: transparent;
+    border: color black;
+    color: black;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.pause{
+    color:crimson;
+    font-size: 11px;
+}
+
